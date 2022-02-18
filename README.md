@@ -37,5 +37,5 @@ https://colab.research.google.com/drive/1xvIXYF_4ba06MD1WWTgsKWZi_xfhk3-M?usp=sh
 
  **Уровень метилирования и покрытия для каждого образца**
  
- ![]()
- ![]()
+ ![](https://github.com/ZhukovaJul/hse_hw1_meth/blob/1d245f3ecf9dbed890521e156af2c876c96aefa3/img/%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%201.png)
+ ![](https://github.com/ZhukovaJul/hse_hw1_meth/blob/1d245f3ecf9dbed890521e156af2c876c96aefa3/img/%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%202.png)
