@@ -8,7 +8,7 @@ https://colab.research.google.com/drive/1xvIXYF_4ba06MD1WWTgsKWZi_xfhk3-M?usp=sh
 По результатам FastQC можно заметить такую особенность как GC состав. 
 
 
-
+|Per sequence GC content|Per base sequence content|
 |![](https://github.com/ZhukovaJul/hse_hw1_meth/blob/54f3ec8feaa96a175e76467a76bb20b4fc1be305/img/1.2.PNG)|![](https://github.com/ZhukovaJul/hse_hw1_meth/blob/54f3ec8feaa96a175e76467a76bb20b4fc1be305/img/1.1.PNG)|
 
 <h3>Задание 2</h3> 
