@@ -29,7 +29,7 @@ https://colab.research.google.com/drive/1xvIXYF_4ba06MD1WWTgsKWZi_xfhk3-M?usp=sh
 
 **Гистограммы**
 
-
+|   |
 |---|
 |![](https://github.com/ZhukovaJul/hse_hw1_meth/blob/31c014a73c166de5aedd3ca646a723e437ac5e84/img/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(1).png)|
 |![](https://github.com/ZhukovaJul/hse_hw1_meth/blob/31c014a73c166de5aedd3ca646a723e437ac5e84/img/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(2).png)|
