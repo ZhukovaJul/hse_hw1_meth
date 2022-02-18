@@ -13,6 +13,7 @@ https://colab.research.google.com/drive/1xvIXYF_4ba06MD1WWTgsKWZi_xfhk3-M?usp=sh
 ![](https://github.com/ZhukovaJul/hse_hw1_meth/blob/54f3ec8feaa96a175e76467a76bb20b4fc1be305/img/1.1.PNG)
 
 <h3>Задание 2</h3> 
+
 | Стадия   | 11347700-11367700| 40185800-40195800 |Total number duplicated alignments removed|Total count of deduplicated leftover sequences|
 |---|---|---|---|---|
 |8_cell   | 1090 | 464 |18.31%|81.69%|
