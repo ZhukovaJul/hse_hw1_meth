@@ -20,7 +20,7 @@ https://colab.research.google.com/drive/1xvIXYF_4ba06MD1WWTgsKWZi_xfhk3-M?usp=sh
 | ICM     | 1456 | 630 |9.08% |90.92%|
 | Epiblast|2328  |1062 |2.92% |97.08%|
 
-M-bias plots
+**M-bias plots**
 
 | 8_cell|ICM  | Epiblast |
 |---|---|---|
