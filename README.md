@@ -15,7 +15,7 @@ https://colab.research.google.com/drive/1xvIXYF_4ba06MD1WWTgsKWZi_xfhk3-M?usp=sh
 <h3>Задание 2</h3> 
 | Стадия   | 11347700-11367700| 40185800-40195800 |Total number duplicated alignments removed|Total count of deduplicated leftover sequences|
 |---|---|---|---|---|
-|8_cell  | 1090 | 464 |18.31%|81.69%|
-| ICM| 1456 | 630 |9.08%|90.92%|
-| Epiblast|2328 |1062|2.92%|97.08%|
+|8_cell   | 1090 | 464 |18.31%|81.69%|
+| ICM     | 1456 | 630 |9.08% |90.92%|
+| Epiblast|2328  |1062 |2.92% |97.08%|
 
