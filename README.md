@@ -20,3 +20,7 @@ https://colab.research.google.com/drive/1xvIXYF_4ba06MD1WWTgsKWZi_xfhk3-M?usp=sh
 | ICM     | 1456 | 630 |9.08% |90.92%|
 | Epiblast|2328  |1062 |2.92% |97.08%|
 
+| 8_cell|ICM  | Epiblast |
+|---|---|---|
+| ![](https://github.com/ZhukovaJul/hse_hw1_meth/blob/4ecf42fc7f14304c197661cf36984dbcaa2511aa/img/8%D1%81_1.PNG) | ![](https://github.com/ZhukovaJul/hse_hw1_meth/blob/4ecf42fc7f14304c197661cf36984dbcaa2511aa/img/i_1.PNG) | ![](https://github.com/ZhukovaJul/hse_hw1_meth/blob/4ecf42fc7f14304c197661cf36984dbcaa2511aa/img/ep_1.PNG) |
+| ![](https://github.com/ZhukovaJul/hse_hw1_meth/blob/4ecf42fc7f14304c197661cf36984dbcaa2511aa/img/8%D1%81_2.PNG) | ![](https://github.com/ZhukovaJul/hse_hw1_meth/blob/4ecf42fc7f14304c197661cf36984dbcaa2511aa/img/i_2.PNG) | ![](https://github.com/ZhukovaJul/hse_hw1_meth/blob/4ecf42fc7f14304c197661cf36984dbcaa2511aa/img/ep_2.PNG) |
